@@ -8,7 +8,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha carreira na área de tecnologia.
 
-Tenho experiência prática com **hardware, montagem e manutenção de computadores, celulares e consoles** e atualmente estou direcionando meus estudos para **programação, análise de sistemas e desenvolvimento de software**.
+Tenho experiência prática com **TI/Desenvolvimento/Análise de Sistemas** e atualmente estou direcionando meus estudos para **programação, análise de sistemas e desenvolvimento de software**.
 
 Busco transformar conhecimentos adquiridos durante minha formação em projetos práticos, desenvolvendo minha capacidade de resolver problemas e criar soluções tecnológicas.
 
